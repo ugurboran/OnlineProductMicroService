@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aI4zYqvaFGeiWc5susIngkJimN9YPnu8st4VXzW07tU=",
+  "Source": "ProductService.API",
+  "BasePath": "_content/ProductService.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

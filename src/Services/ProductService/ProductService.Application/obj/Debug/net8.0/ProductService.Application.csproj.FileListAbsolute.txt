@@ -1,0 +1,16 @@
+C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroservice\src\Services\ProductService\ProductService.Application\bin\Debug\net8.0\ProductService.Application.deps.json
+C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroservice\src\Services\ProductService\ProductService.Application\bin\Debug\net8.0\ProductService.Application.dll
+C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroservice\src\Services\ProductService\ProductService.Application\bin\Debug\net8.0\ProductService.Application.pdb
+C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroservice\src\Services\ProductService\ProductService.Application\bin\Debug\net8.0\ProductService.Domain.dll
+C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroservice\src\Services\ProductService\ProductService.Application\bin\Debug\net8.0\ProductService.Domain.pdb
+C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroservice\src\Services\ProductService\ProductService.Application\obj\Debug\net8.0\ProductService.Application.csproj.AssemblyReference.cache
+C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroservice\src\Services\ProductService\ProductService.Application\obj\Debug\net8.0\ProductService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroservice\src\Services\ProductService\ProductService.Application\obj\Debug\net8.0\ProductService.Application.AssemblyInfoInputs.cache
+C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroservice\src\Services\ProductService\ProductService.Application\obj\Debug\net8.0\ProductService.Application.AssemblyInfo.cs
+C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroservice\src\Services\ProductService\ProductService.Application\obj\Debug\net8.0\ProductService.Application.csproj.CoreCompileInputs.cache
+C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroservice\src\Services\ProductService\ProductService.Application\obj\Debug\net8.0\ProductService.Application.sourcelink.json
+C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroservice\src\Services\ProductService\ProductService.Application\obj\Debug\net8.0\ProductS.46A6959E.Up2Date
+C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroservice\src\Services\ProductService\ProductService.Application\obj\Debug\net8.0\ProductService.Application.dll
+C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroservice\src\Services\ProductService\ProductService.Application\obj\Debug\net8.0\refint\ProductService.Application.dll
+C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroservice\src\Services\ProductService\ProductService.Application\obj\Debug\net8.0\ProductService.Application.pdb
+C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroservice\src\Services\ProductService\ProductService.Application\obj\Debug\net8.0\ref\ProductService.Application.dll

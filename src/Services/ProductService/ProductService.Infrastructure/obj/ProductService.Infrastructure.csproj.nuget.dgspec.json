@@ -1,0 +1,193 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroservice\\src\\Services\\ProductService\\ProductService.Infrastructure\\ProductService.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroservice\\src\\Services\\ProductService\\ProductService.Application\\ProductService.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroservice\\src\\Services\\ProductService\\ProductService.Application\\ProductService.Application.csproj",
+        "projectName": "ProductService.Application",
+        "projectPath": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroservice\\src\\Services\\ProductService\\ProductService.Application\\ProductService.Application.csproj",
+        "packagesPath": "C:\\Users\\ugurb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroservice\\src\\Services\\ProductService\\ProductService.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ugurb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroservice\\src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj": {
+                "projectPath": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroservice\\src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.417/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroservice\\src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroservice\\src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj",
+        "projectName": "ProductService.Domain",
+        "projectPath": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroservice\\src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj",
+        "packagesPath": "C:\\Users\\ugurb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroservice\\src\\Services\\ProductService\\ProductService.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ugurb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.417/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroservice\\src\\Services\\ProductService\\ProductService.Infrastructure\\ProductService.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroservice\\src\\Services\\ProductService\\ProductService.Infrastructure\\ProductService.Infrastructure.csproj",
+        "projectName": "ProductService.Infrastructure",
+        "projectPath": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroservice\\src\\Services\\ProductService\\ProductService.Infrastructure\\ProductService.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\ugurb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroservice\\src\\Services\\ProductService\\ProductService.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ugurb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroservice\\src\\Services\\ProductService\\ProductService.Application\\ProductService.Application.csproj": {
+                "projectPath": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroservice\\src\\Services\\ProductService\\ProductService.Application\\ProductService.Application.csproj"
+              },
+              "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroservice\\src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj": {
+                "projectPath": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroservice\\src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.417/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
