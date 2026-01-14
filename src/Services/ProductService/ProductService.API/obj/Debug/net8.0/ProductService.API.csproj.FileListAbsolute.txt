@@ -26,11 +26,6 @@ C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroservice\sr
 C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroservice\src\Services\ProductService\ProductService.API\obj\Debug\net8.0\ProductService.API.sourcelink.json
 C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroservice\src\Services\ProductService\ProductService.API\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroservice\src\Services\ProductService\ProductService.API\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroservice\src\Services\ProductService\ProductService.API\obj\Debug\net8.0\staticwebassets\msbuild.ProductService.API.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroservice\src\Services\ProductService\ProductService.API\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductService.API.props
-C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroservice\src\Services\ProductService\ProductService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductService.API.props
-C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroservice\src\Services\ProductService\ProductService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductService.API.props
-C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroservice\src\Services\ProductService\ProductService.API\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroservice\src\Services\ProductService\ProductService.API\obj\Debug\net8.0\scopedcss\bundle\ProductService.API.styles.css
 C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroservice\src\Services\ProductService\ProductService.API\obj\Debug\net8.0\ProductS.86321A10.Up2Date
 C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroservice\src\Services\ProductService\ProductService.API\obj\Debug\net8.0\ProductService.API.dll
@@ -38,3 +33,11 @@ C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroservice\sr
 C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroservice\src\Services\ProductService\ProductService.API\obj\Debug\net8.0\ProductService.API.pdb
 C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroservice\src\Services\ProductService\ProductService.API\obj\Debug\net8.0\ProductService.API.genruntimeconfig.cache
 C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroservice\src\Services\ProductService\ProductService.API\obj\Debug\net8.0\ref\ProductService.API.dll
+C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroService\src\Services\ProductService\ProductService.API\bin\Debug\net8.0\ProductService.API.staticwebassets.endpoints.json
+C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroService\src\Services\ProductService\ProductService.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroService\src\Services\ProductService\ProductService.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroService\src\Services\ProductService\ProductService.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroService\src\Services\ProductService\ProductService.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroService\src\Services\ProductService\ProductService.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroService\src\Services\ProductService\ProductService.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ugurb\OneDrive\Desktop\MicroserviceProject\OnlineProductMicroService\src\Services\ProductService\ProductService.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
