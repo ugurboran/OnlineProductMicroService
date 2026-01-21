@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\UBORAN\\source\\repos\\OnlineProductMicroService\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2D059EFF-1F4A-4173-AF44-720518A54564}|src\\Services\\ProductService\\ProductService.Application\\ProductService.Application.csproj|c:\\users\\uboran\\source\\repos\\onlineproductmicroservice\\src\\services\\productservice\\productservice.application\\productservice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D059EFF-1F4A-4173-AF44-720518A54564}|src\\Services\\ProductService\\ProductService.Application\\ProductService.Application.csproj|solutionrelative:src\\services\\productservice\\productservice.application\\productservice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1BD55E40-DA83-4D90-895F-6E21DED03422}|src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj|c:\\users\\uboran\\source\\repos\\onlineproductmicroservice\\src\\services\\productservice\\productservice.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BD55E40-DA83-4D90-895F-6E21DED03422}|src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj|solutionrelative:src\\services\\productservice\\productservice.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "ProductService.Application",
+              "DocumentMoniker": "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Application\\ProductService.Application.csproj",
+              "RelativeDocumentMoniker": "src\\Services\\ProductService\\ProductService.Application\\ProductService.Application.csproj",
+              "ToolTip": "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Application\\ProductService.Application.csproj",
+              "RelativeToolTip": "src\\Services\\ProductService\\ProductService.Application\\ProductService.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-21T19:20:11.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\UBORAN\\source\\repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\Interfaces\\IProductRepository.cs",
               "RelativeDocumentMoniker": "src\\Services\\ProductService\\ProductService.Domain\\Interfaces\\IProductRepository.cs",
@@ -34,12 +51,11 @@
               "RelativeToolTip": "src\\Services\\ProductService\\ProductService.Domain\\Interfaces\\IProductRepository.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAA0wD0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T12:32:06.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T12:32:06.204Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProductStock.cs",
               "DocumentMoniker": "C:\\Users\\UBORAN\\source\\repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\Entities\\ProductStock.cs",
               "RelativeDocumentMoniker": "src\\Services\\ProductService\\ProductService.Domain\\Entities\\ProductStock.cs",
@@ -47,18 +63,17 @@
               "RelativeToolTip": "src\\Services\\ProductService\\ProductService.Domain\\Entities\\ProductStock.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAgwCcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T11:51:37.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T11:51:37.784Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\UBORAN\\source\\repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "src\\Services\\ProductService\\ProductService.Domain\\Entities\\Product.cs",
               "ToolTip": "C:\\Users\\UBORAN\\source\\repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\Entities\\Product.cs",
               "RelativeToolTip": "src\\Services\\ProductService\\ProductService.Domain\\Entities\\Product.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCkAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwCkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-14T11:49:26.865Z",
               "EditorCaption": ""
