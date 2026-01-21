@@ -31,7 +31,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductService.Application",
+              "Title": "ProductService.Application.csproj",
               "DocumentMoniker": "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Application\\ProductService.Application.csproj",
               "RelativeDocumentMoniker": "src\\Services\\ProductService\\ProductService.Application\\ProductService.Application.csproj",
               "ToolTip": "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Application\\ProductService.Application.csproj",
@@ -75,8 +75,7 @@
               "RelativeToolTip": "src\\Services\\ProductService\\ProductService.Domain\\Entities\\Product.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAxwCkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T11:49:26.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T11:49:26.865Z"
             }
           ]
         }
