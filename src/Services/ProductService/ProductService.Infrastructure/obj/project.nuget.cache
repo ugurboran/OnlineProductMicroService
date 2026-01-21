@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FsQiL61RCkE=",
+  "dgSpecHash": "cdx0Fk14ZQs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Infrastructure\\ProductService.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Infrastructure\\ProductService.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

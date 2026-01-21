@@ -1,22 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\",
+  "WorkspaceRootPath": "C:\\Users\\UBORAN\\source\\repos\\OnlineProductMicroService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1BD55E40-DA83-4D90-895F-6E21DED03422}|src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj|c:\\users\\ugurb\\onedrive\\desktop\\microserviceproject\\onlineproductmicroservice\\src\\services\\productservice\\productservice.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BD55E40-DA83-4D90-895F-6E21DED03422}|src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj|solutionrelative:src\\services\\productservice\\productservice.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BD55E40-DA83-4D90-895F-6E21DED03422}|src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj|c:\\users\\uboran\\source\\repos\\onlineproductmicroservice\\src\\services\\productservice\\productservice.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD55E40-DA83-4D90-895F-6E21DED03422}|src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj|solutionrelative:src\\services\\productservice\\productservice.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BD55E40-DA83-4D90-895F-6E21DED03422}|src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj|c:\\users\\ugurb\\onedrive\\desktop\\microserviceproject\\onlineproductmicroservice\\src\\services\\productservice\\productservice.domain\\productservice.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1BD55E40-DA83-4D90-895F-6E21DED03422}|src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj|solutionrelative:src\\services\\productservice\\productservice.domain\\productservice.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BD55E40-DA83-4D90-895F-6E21DED03422}|src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj|c:\\users\\ugurb\\onedrive\\desktop\\microserviceproject\\onlineproductmicroservice\\src\\services\\productservice\\productservice.domain\\entities\\productstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1BD55E40-DA83-4D90-895F-6E21DED03422}|src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj|c:\\users\\uboran\\source\\repos\\onlineproductmicroservice\\src\\services\\productservice\\productservice.domain\\entities\\productstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BD55E40-DA83-4D90-895F-6E21DED03422}|src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj|solutionrelative:src\\services\\productservice\\productservice.domain\\entities\\productstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BD55E40-DA83-4D90-895F-6E21DED03422}|src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj|c:\\users\\ugurb\\onedrive\\desktop\\microserviceproject\\onlineproductmicroservice\\src\\services\\productservice\\productservice.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BD55E40-DA83-4D90-895F-6E21DED03422}|src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj|solutionrelative:src\\services\\productservice\\productservice.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BD55E40-DA83-4D90-895F-6E21DED03422}|src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj|c:\\users\\uboran\\source\\repos\\onlineproductmicroservice\\src\\services\\productservice\\productservice.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD55E40-DA83-4D90-895F-6E21DED03422}|src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj|solutionrelative:src\\services\\productservice\\productservice.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\Interfaces\\IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\UBORAN\\source\\repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\Interfaces\\IProductRepository.cs",
               "RelativeDocumentMoniker": "src\\Services\\ProductService\\ProductService.Domain\\Interfaces\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\UBORAN\\source\\repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\Interfaces\\IProductRepository.cs",
               "RelativeToolTip": "src\\Services\\ProductService\\ProductService.Domain\\Interfaces\\IProductRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwD0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAA0wD0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-14T12:32:06.204Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ProductStock.cs",
-              "DocumentMoniker": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\Entities\\ProductStock.cs",
+              "DocumentMoniker": "C:\\Users\\UBORAN\\source\\repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\Entities\\ProductStock.cs",
               "RelativeDocumentMoniker": "src\\Services\\ProductService\\ProductService.Domain\\Entities\\ProductStock.cs",
-              "ToolTip": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\Entities\\ProductStock.cs",
+              "ToolTip": "C:\\Users\\UBORAN\\source\\repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\Entities\\ProductStock.cs",
               "RelativeToolTip": "src\\Services\\ProductService\\ProductService.Domain\\Entities\\ProductStock.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-14T11:51:37.784Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\Entities\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\UBORAN\\source\\repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "src\\Services\\ProductService\\ProductService.Domain\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\UBORAN\\source\\repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\Entities\\Product.cs",
               "RelativeToolTip": "src\\Services\\ProductService\\ProductService.Domain\\Entities\\Product.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAowDwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T11:49:26.865Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductService.Domain.csproj",
-              "DocumentMoniker": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj",
-              "RelativeDocumentMoniker": "src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj",
-              "ToolTip": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj*",
-              "RelativeToolTip": "src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-14T11:47:47.663Z",
+              "WhenOpened": "2026-01-14T11:49:26.865Z",
               "EditorCaption": ""
             }
           ]

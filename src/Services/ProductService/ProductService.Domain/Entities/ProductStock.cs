@@ -16,7 +16,7 @@ namespace ProductService.Domain.Entities
         /// </summary>
         [Key]
         [ForeignKey(nameof(Product))]
-        public Guid ProductId { get; set; }
+        public Guid ProductId { get; set; } // Primary Key + Foreign Key
 
         /// <summary>
         /// Stok miktarı
@@ -35,6 +35,6 @@ namespace ProductService.Domain.Entities
         /// İlişkili ürün
         /// CONSTRAINT FK_ProductStock_Product FOREIGN KEY (ProductId) REFERENCES Products(Id)
         /// </summary>
-        public Product Product { get; set; } = null!;
+        public Product Product { get; set; } = null!; // Navigation Property. EF Core yükleyecek, o yüzden null olmayacak. Compiler uyarılarını susturur
     }
 }

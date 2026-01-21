@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.API\\ProductService.API.csproj": {}
+    "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.API\\ProductService.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.API\\ProductService.API.csproj": {
+    "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.API\\ProductService.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.API\\ProductService.API.csproj",
+        "projectUniqueName": "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.API\\ProductService.API.csproj",
         "projectName": "ProductService.API",
-        "projectPath": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.API\\ProductService.API.csproj",
-        "packagesPath": "C:\\Users\\ugurb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.API\\obj\\",
+        "projectPath": "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.API\\ProductService.API.csproj",
+        "packagesPath": "C:\\Users\\UBORAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ugurb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\UBORAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,14 +32,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Application\\ProductService.Application.csproj": {
-                "projectPath": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Application\\ProductService.Application.csproj"
+              "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Application\\ProductService.Application.csproj": {
+                "projectPath": "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Application\\ProductService.Application.csproj"
               },
-              "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj": {
-                "projectPath": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj"
+              "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj": {
+                "projectPath": "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj"
               },
-              "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Infrastructure\\ProductService.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Infrastructure\\ProductService.Infrastructure.csproj"
+              "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Infrastructure\\ProductService.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Infrastructure\\ProductService.Infrastructure.csproj"
               }
             }
           }
@@ -88,24 +88,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Application\\ProductService.Application.csproj": {
+    "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Application\\ProductService.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Application\\ProductService.Application.csproj",
+        "projectUniqueName": "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Application\\ProductService.Application.csproj",
         "projectName": "ProductService.Application",
-        "projectPath": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Application\\ProductService.Application.csproj",
-        "packagesPath": "C:\\Users\\ugurb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Application\\obj\\",
+        "projectPath": "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Application\\ProductService.Application.csproj",
+        "packagesPath": "C:\\Users\\UBORAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ugurb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\UBORAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -120,8 +120,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj": {
-                "projectPath": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj"
+              "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj": {
+                "projectPath": "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj"
               }
             }
           }
@@ -157,24 +157,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj": {
+    "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj",
         "projectName": "ProductService.Domain",
-        "projectPath": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj",
-        "packagesPath": "C:\\Users\\ugurb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\obj\\",
+        "projectPath": "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj",
+        "packagesPath": "C:\\Users\\UBORAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ugurb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\UBORAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -222,24 +222,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Infrastructure\\ProductService.Infrastructure.csproj": {
+    "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Infrastructure\\ProductService.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Infrastructure\\ProductService.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Infrastructure\\ProductService.Infrastructure.csproj",
         "projectName": "ProductService.Infrastructure",
-        "projectPath": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Infrastructure\\ProductService.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\ugurb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Infrastructure\\ProductService.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\UBORAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ugurb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\UBORAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -254,11 +254,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Application\\ProductService.Application.csproj": {
-                "projectPath": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Application\\ProductService.Application.csproj"
+              "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Application\\ProductService.Application.csproj": {
+                "projectPath": "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Application\\ProductService.Application.csproj"
               },
-              "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj": {
-                "projectPath": "C:\\Users\\ugurb\\OneDrive\\Desktop\\MicroserviceProject\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj"
+              "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj": {
+                "projectPath": "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\ProductService.Domain.csproj"
               }
             }
           }
@@ -294,7 +294,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

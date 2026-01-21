@@ -1,21 +1,21 @@
-using System.ComponentModel.DataAnnotations;
+ï»¿using System.ComponentModel.DataAnnotations;
 
 namespace ProductService.Domain.Entities
 {
     /// <summary>
-    /// Ürün entity'si - Products tablosunu temsil eder
+    /// ÃœrÃ¼n entity'si - Products tablosunu temsil eder
     /// SQL: CREATE TABLE Products (...)
     /// </summary>
     public class Product
     {
         /// <summary>
-        /// Benzersiz ürün kimliði
+        /// Benzersiz Ã¼rÃ¼n kimliÃ°i
         /// SQL: Id UNIQUEIDENTIFIER NOT NULL PRIMARY KEY
         /// </summary>
         public Guid Id { get; set; }
 
         /// <summary>
-        /// Ürün adý (zorunlu, max 200 karakter)
+        /// ÃœrÃ¼n adÃ½ (zorunlu, max 200 karakter)
         /// SQL: Name NVARCHAR(200) NOT NULL
         /// </summary>
         [Required]
@@ -23,40 +23,40 @@ namespace ProductService.Domain.Entities
         public string Name { get; set; } = string.Empty;
 
         /// <summary>
-        /// Ürün açýklamasý (max 500 karakter, opsiyonel)
+        /// ÃœrÃ¼n aÃ§Ã½klamasÃ½ (max 500 karakter, opsiyonel)
         /// SQL: Description NVARCHAR(500)
         /// </summary>
         [MaxLength(500)]
         public string? Description { get; set; }
 
         /// <summary>
-        /// Ürün fiyatý
+        /// ÃœrÃ¼n fiyatÃ½
         /// SQL: Price DECIMAL(18,2) NOT NULL
         /// </summary>
         public decimal Price { get; set; }
 
         /// <summary>
-        /// Ürün aktif mi? (Soft delete için)
+        /// ÃœrÃ¼n aktif mi? (Soft delete iÃ§in)
         /// SQL: IsActive BIT NOT NULL DEFAULT 1
         /// </summary>
         public bool IsActive { get; set; } = true;
 
         /// <summary>
-        /// Ürün oluþturulma tarihi
+        /// ÃœrÃ¼n oluÃ¾turulma tarihi
         /// SQL: CreatedAt DATETIME2 NOT NULL DEFAULT SYSDATETIME()
         /// </summary>
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
 
         /// <summary>
-        /// Son güncellenme tarihi (nullable)
+        /// Son gÃ¼ncellenme tarihi (nullable)
         /// SQL: UpdatedAt DATETIME2 NULL
         /// </summary>
         public DateTime? UpdatedAt { get; set; }
 
-        // Navigation Property (1-1 iliþki)
+        // Navigation Property (1-1 iliÃ¾ki)
         /// <summary>
-        /// Ürün stok bilgisi (ProductStock tablosu ile iliþki)
+        /// ÃœrÃ¼n stok bilgisi (ProductStock tablosu ile iliÃ¾ki)
         /// </summary>
-        public ProductStock? Stock { get; set; }
+        public ProductStock? Stock { get; set; } //(nullable) ÃœrÃ¼n yeni oluÅŸturulduÄŸunda stok henÃ¼z olmayabilir ? olmazsa NullReferenceException riski
     }
 }
