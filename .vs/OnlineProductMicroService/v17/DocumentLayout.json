@@ -64,7 +64,7 @@
               "RelativeDocumentMoniker": "src\\Shared\\Shared.Events\\Common\\BaseEvent.cs",
               "ToolTip": "C:\\Users\\UBORAN\\source\\repos\\OnlineProductMicroService\\src\\Shared\\Shared.Events\\Common\\BaseEvent.cs",
               "RelativeToolTip": "src\\Shared\\Shared.Events\\Common\\BaseEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-25T12:45:32.727Z",
               "EditorCaption": ""
@@ -79,21 +79,19 @@
               "RelativeToolTip": "src\\Shared\\Shared.Events\\Common\\TestFile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T12:44:45.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T12:44:45.909Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Shared.Events",
+              "Title": "Shared.Events.csproj",
               "DocumentMoniker": "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Shared\\Shared.Events\\Shared.Events.csproj",
               "RelativeDocumentMoniker": "src\\Shared\\Shared.Events\\Shared.Events.csproj",
               "ToolTip": "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Shared\\Shared.Events\\Shared.Events.csproj",
               "RelativeToolTip": "src\\Shared\\Shared.Events\\Shared.Events.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-25T12:41:47.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T12:41:47.227Z"
             },
             {
               "$type": "Document",
@@ -105,8 +103,7 @@
               "RelativeToolTip": "src\\Services\\ProductService\\ProductService.Application\\DTOs\\ProductStockDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T19:41:33.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T19:41:33.25Z"
             },
             {
               "$type": "Document",

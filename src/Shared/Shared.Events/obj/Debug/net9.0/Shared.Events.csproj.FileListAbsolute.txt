@@ -1,0 +1,12 @@
+C:\Users\UBORAN\Source\Repos\OnlineProductMicroService\src\Shared\Shared.Events\bin\Debug\net9.0\Shared.Events.deps.json
+C:\Users\UBORAN\Source\Repos\OnlineProductMicroService\src\Shared\Shared.Events\bin\Debug\net9.0\Shared.Events.dll
+C:\Users\UBORAN\Source\Repos\OnlineProductMicroService\src\Shared\Shared.Events\bin\Debug\net9.0\Shared.Events.pdb
+C:\Users\UBORAN\Source\Repos\OnlineProductMicroService\src\Shared\Shared.Events\obj\Debug\net9.0\Shared.Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UBORAN\Source\Repos\OnlineProductMicroService\src\Shared\Shared.Events\obj\Debug\net9.0\Shared.Events.AssemblyInfoInputs.cache
+C:\Users\UBORAN\Source\Repos\OnlineProductMicroService\src\Shared\Shared.Events\obj\Debug\net9.0\Shared.Events.AssemblyInfo.cs
+C:\Users\UBORAN\Source\Repos\OnlineProductMicroService\src\Shared\Shared.Events\obj\Debug\net9.0\Shared.Events.csproj.CoreCompileInputs.cache
+C:\Users\UBORAN\Source\Repos\OnlineProductMicroService\src\Shared\Shared.Events\obj\Debug\net9.0\Shared.Events.sourcelink.json
+C:\Users\UBORAN\Source\Repos\OnlineProductMicroService\src\Shared\Shared.Events\obj\Debug\net9.0\Shared.Events.dll
+C:\Users\UBORAN\Source\Repos\OnlineProductMicroService\src\Shared\Shared.Events\obj\Debug\net9.0\refint\Shared.Events.dll
+C:\Users\UBORAN\Source\Repos\OnlineProductMicroService\src\Shared\Shared.Events\obj\Debug\net9.0\Shared.Events.pdb
+C:\Users\UBORAN\Source\Repos\OnlineProductMicroService\src\Shared\Shared.Events\obj\Debug\net9.0\ref\Shared.Events.dll
