@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Orders\" />
     <Folder Include="Payments\" />
     <Folder Include="Products\" />
   </ItemGroup>

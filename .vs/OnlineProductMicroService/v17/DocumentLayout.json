@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\UBORAN\\source\\repos\\OnlineProductMicroService\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DC157794-D84A-4AF7-88F1-845FFE922CE7}|src\\Shared\\Shared.Events\\Shared.Events.csproj|c:\\users\\uboran\\source\\repos\\onlineproductmicroservice\\src\\shared\\shared.events\\orders\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC157794-D84A-4AF7-88F1-845FFE922CE7}|src\\Shared\\Shared.Events\\Shared.Events.csproj|solutionrelative:src\\shared\\shared.events\\orders\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DC157794-D84A-4AF7-88F1-845FFE922CE7}|src\\Shared\\Shared.Events\\Shared.Events.csproj|c:\\users\\uboran\\source\\repos\\onlineproductmicroservice\\src\\shared\\shared.events\\common\\baseevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC157794-D84A-4AF7-88F1-845FFE922CE7}|src\\Shared\\Shared.Events\\Shared.Events.csproj|solutionrelative:src\\shared\\shared.events\\common\\baseevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -59,6 +63,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "OrderCreatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\UBORAN\\source\\repos\\OnlineProductMicroService\\src\\Shared\\Shared.Events\\Orders\\OrderCreatedEvent.cs",
+              "RelativeDocumentMoniker": "src\\Shared\\Shared.Events\\Orders\\OrderCreatedEvent.cs",
+              "ToolTip": "C:\\Users\\UBORAN\\source\\repos\\OnlineProductMicroService\\src\\Shared\\Shared.Events\\Orders\\OrderCreatedEvent.cs",
+              "RelativeToolTip": "src\\Shared\\Shared.Events\\Orders\\OrderCreatedEvent.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAIwAMBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T13:01:25.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "BaseEvent.cs",
               "DocumentMoniker": "C:\\Users\\UBORAN\\source\\repos\\OnlineProductMicroService\\src\\Shared\\Shared.Events\\Common\\BaseEvent.cs",
               "RelativeDocumentMoniker": "src\\Shared\\Shared.Events\\Common\\BaseEvent.cs",
@@ -71,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TestFile.cs",
               "DocumentMoniker": "C:\\Users\\UBORAN\\source\\repos\\OnlineProductMicroService\\src\\Shared\\Shared.Events\\Common\\TestFile.cs",
               "RelativeDocumentMoniker": "src\\Shared\\Shared.Events\\Common\\TestFile.cs",
@@ -83,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Shared.Events.csproj",
               "DocumentMoniker": "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Shared\\Shared.Events\\Shared.Events.csproj",
               "RelativeDocumentMoniker": "src\\Shared\\Shared.Events\\Shared.Events.csproj",
@@ -95,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ProductStockDto.cs",
               "DocumentMoniker": "C:\\Users\\UBORAN\\source\\repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Application\\DTOs\\ProductStockDto.cs",
               "RelativeDocumentMoniker": "src\\Services\\ProductService\\ProductService.Application\\DTOs\\ProductStockDto.cs",
@@ -107,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "UpdateProductDto.cs",
               "DocumentMoniker": "C:\\Users\\UBORAN\\source\\repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Application\\DTOs\\UpdateProductDto.cs",
               "RelativeDocumentMoniker": "src\\Services\\ProductService\\ProductService.Application\\DTOs\\UpdateProductDto.cs",
@@ -119,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CreateProductDto.cs",
               "DocumentMoniker": "C:\\Users\\UBORAN\\source\\repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Application\\DTOs\\CreateProductDto.cs",
               "RelativeDocumentMoniker": "src\\Services\\ProductService\\ProductService.Application\\DTOs\\CreateProductDto.cs",
@@ -131,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ProductDto.cs",
               "DocumentMoniker": "C:\\Users\\UBORAN\\source\\repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Application\\DTOs\\ProductDto.cs",
               "RelativeDocumentMoniker": "src\\Services\\ProductService\\ProductService.Application\\DTOs\\ProductDto.cs",
@@ -143,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ProductService.Application.csproj",
               "DocumentMoniker": "C:\\Users\\UBORAN\\Source\\Repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Application\\ProductService.Application.csproj",
               "RelativeDocumentMoniker": "src\\Services\\ProductService\\ProductService.Application\\ProductService.Application.csproj",
@@ -155,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\UBORAN\\source\\repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\Interfaces\\IProductRepository.cs",
               "RelativeDocumentMoniker": "src\\Services\\ProductService\\ProductService.Domain\\Interfaces\\IProductRepository.cs",
@@ -167,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ProductStock.cs",
               "DocumentMoniker": "C:\\Users\\UBORAN\\source\\repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\Entities\\ProductStock.cs",
               "RelativeDocumentMoniker": "src\\Services\\ProductService\\ProductService.Domain\\Entities\\ProductStock.cs",
@@ -179,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\UBORAN\\source\\repos\\OnlineProductMicroService\\src\\Services\\ProductService\\ProductService.Domain\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "src\\Services\\ProductService\\ProductService.Domain\\Entities\\Product.cs",

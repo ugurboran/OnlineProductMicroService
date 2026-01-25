@@ -77,7 +77,6 @@ C:\Users\UBORAN\Source\Repos\OnlineProductMicroService\src\Services\ProductServi
 C:\Users\UBORAN\Source\Repos\OnlineProductMicroService\src\Services\ProductService\ProductService.API\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\UBORAN\Source\Repos\OnlineProductMicroService\src\Services\ProductService\ProductService.API\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\UBORAN\Source\Repos\OnlineProductMicroService\src\Services\ProductService\ProductService.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\UBORAN\Source\Repos\OnlineProductMicroService\src\Services\ProductService\ProductService.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\UBORAN\Source\Repos\OnlineProductMicroService\src\Services\ProductService\ProductService.API\obj\Debug\net8.0\ProductS.86321A10.Up2Date
 C:\Users\UBORAN\Source\Repos\OnlineProductMicroService\src\Services\ProductService\ProductService.API\obj\Debug\net8.0\ProductService.API.dll
 C:\Users\UBORAN\Source\Repos\OnlineProductMicroService\src\Services\ProductService\ProductService.API\obj\Debug\net8.0\refint\ProductService.API.dll
